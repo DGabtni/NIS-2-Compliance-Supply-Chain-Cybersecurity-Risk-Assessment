@@ -8,6 +8,7 @@ Skills Demonstrated:
 Regulatory compliance (NIS 2)
 Risk assessment and prioritization
 Client-oriented reporting and recommendations
+
 Key Deliverables:
 
 A detailed evaluation of vendor compliance with NIS 2 supply chain security requirements.
